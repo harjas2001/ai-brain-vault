@@ -5,7 +5,6 @@ A personal knowledge graph built from my entire Claude conversation history — 
 Built using **Claude Code**, **Obsidian**, and a token-efficient session workflow managed via `CLAUDE.md`.
 
 <img width="420" height="358" alt="image" src="https://github.com/user-attachments/assets/f2fd069a-614e-4181-9803-44f720db7d6d" />
-With tags:
 <img width="468" height="438" alt="image" src="https://github.com/user-attachments/assets/b1580939-a767-4010-8e90-96ce790dc7cf" />
 
 ---
